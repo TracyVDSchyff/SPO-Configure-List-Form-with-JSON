@@ -1,0 +1,27 @@
+{
+    "sections": [
+        {
+            "displayname": "Section1",
+            "fields": [
+                "Column1",
+                "Column2"				
+            ]
+        },
+        {
+            "displayname": "Section2",
+            "fields": [
+                "Column3",
+                "Column4",
+                "Column5"
+            ]
+        },
+        {
+            "displayname": "Section3",
+            "fields": [
+                "Column6",
+                "Column7",
+                "Column8"
+            ]
+        }
+    ]
+}
